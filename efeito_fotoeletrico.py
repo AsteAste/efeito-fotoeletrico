@@ -22,3 +22,6 @@ plt.legend()  # Mostrar a legenda
 plt.grid(True)  # Exibir as grades do gráfico
 
 plt.show()  # Exibir o gráfico
+
+
+# Lobo pidão 
